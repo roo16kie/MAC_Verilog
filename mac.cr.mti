@@ -1,0 +1,23 @@
+C:/Users/user/Desktop/MAC_verilog/mac.v {2 {vlog -work work -stats=none C:/Users/user/Desktop/MAC_verilog/mac.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module mac
+** Warning: C:/Users/user/Desktop/MAC_verilog/mac.v(13): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: C:/Users/user/Desktop/MAC_verilog/mac.v(14): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: C:/Users/user/Desktop/MAC_verilog/mac.v(15): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+** Warning: C:/Users/user/Desktop/MAC_verilog/mac.v(16): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+
+Top level modules:
+	mac
+
+} {} {}} C:/Users/user/Desktop/MAC_verilog/mac_tb.v {1 {vlog -work work -stats=none C:/Users/user/Desktop/MAC_verilog/mac_tb.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module mac_tb
+
+Top level modules:
+	mac_tb
+
+} {} {}}

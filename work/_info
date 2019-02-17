@@ -1,0 +1,52 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/user/Desktop/pregraduate/IC training/2017/B_ICC2017_preliminary_grad_cell-based
+vmac
+Z0 !s110 1550412914
+!i10b 1
+!s100 1jLUfj4g98bUdc9eHW8@62
+I`e7Ll?YU`O7NgFF@>PZPn0
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/user/Desktop/MAC_verilog
+w1550412910
+8C:/Users/user/Desktop/MAC_verilog/mac.v
+FC:/Users/user/Desktop/MAC_verilog/mac.v
+L0 1
+Z3 OP;L;10.4a;61
+r1
+!s85 0
+31
+Z4 !s108 1550412914.000000
+!s107 C:/Users/user/Desktop/MAC_verilog/mac.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/MAC_verilog/mac.v|
+!s101 -O0
+!i113 1
+Z5 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact -O0
+vmac_tb
+R0
+!i10b 1
+!s100 W6BnfYQRC`l`P_XAeGeda0
+IZ:AH<;_j0S1J^abTHTVe00
+R1
+R2
+w1547786811
+8C:/Users/user/Desktop/MAC_verilog/mac_tb.v
+FC:/Users/user/Desktop/MAC_verilog/mac_tb.v
+L0 8
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/user/Desktop/MAC_verilog/mac_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/user/Desktop/MAC_verilog/mac_tb.v|
+!s101 -O0
+!i113 1
+R5
